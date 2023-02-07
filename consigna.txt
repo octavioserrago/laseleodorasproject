@@ -1,0 +1,85 @@
+Poyecto Final:
+Sitio Web Responsivo con Bootstrap
+Carrera: Analista de Sistemas
+Materia: Programación Web I
+
+
+
+
+
+OBJETIVOS
+
+Que el/la estudiante integre un correcto uso de la librería Bootstrap https://getbootstrap.com/  para maquetar las vistas móvil-tablet-escritorio de un Sitio Web Responsivo
+
+La temática es libre, se sugiere articular con la consigna de final para la materia de composición visual donde resuelven el diseño
+
+Criterios de evaluación: 
+
+la implementación de buenas prácticas de HTML5 (estructura válida y semántica) y CSS3 (manejo de estilos) para desarrollar la UI
+
+resolver un modelo de navegación entre “múltiples documentos html”. se debe corresponder un documento html por cada sección informativa que se enlace desde el menú principal, incluyendo la página de inicio como documento index.html
+El idioma del sitio a desarrollar y sus contenidos tienen que ser en “español”, lo mismo para los nombres que van a crear como autores del código para valores de id y class
+
+La aplicación de elementos interactivos para la navegación de los contenidos del sitio (interacciones de enlaces: menú principal, links de textos, galería de fotos, etc) y formularios. Ningún enlace debe estar roto. Los elementos interactivos tienen estados dinámicos que se pueden formatear desde css, por ejemplo cómo se ve cuando el botón cuando paso el cursor por encima.
+
+Será de importante consideración el manejo de estilos adicionales para personalizar y transmitir la identidad visual creada por el/la estudiante para este proyecto (tipografía, paleta de colores, producción de recursos gráficos como imágenes, ilustraciones, etc). No pueden quedar estilos por defecto.
+
+Será de importante consideración la diagramación de los contenidos. El layout debe ser adecuado para cada vista: móvil, tablet y escritorio. No puede mostrarse todo el contenido en bloques. Se puede usar el sistema de grillas y las clases utilitarias a flexbox desde las clases de Bootstrap.
+
+La incorporación de la librería Bootstrap e integración con Plugins JS
+
+
+
+CONSIGNAS TP / DESARROLLO DEL SITIO WEB RESPONSIVO
+
+ Contenidos Finales (sin cuerpos de lorem ú otros textos ó imágenes de molde):
+
+Redacción de textos coherentes
+Imágenes con formato y resolución correspondientes, todas tienen que tener su texto alternativo.
+
+Páginas obligatorias:
+
+una página de inicio, puede incluir el título y texto introductorio correspondiente, tiene que entenderse de quién es el sitio, este debe ser el documento index.html
+al menos 2(dos) páginas adicionales -pueden ser más, que sean secciones informativas del sitio,  por ejemplo: “Quienes Somos”, “Preguntas Frecuentes”, etc
+una página con una galería de fotos (siguiendo la temática del sitio, por ej: “Portflio”, “Álbum”, etc)
+una página para mostrar un formulario (siguiendo la temática del sitio, por ej: “Reservas”, “Contacto”, etc)
+la página de error 404 
+
+Áreas de diseño (en todas las páginas):
+
+menu principal ya que se tiene que poder navegar a cada página/sección del sitio y volver al inicio, se debe visualizar de manera persistente durante la navegación entre documentos
+diseño de pie de página incluyendo el membrete con los datos de cursada. otros contenidos sugeridos: lista de enlaces como respaldo de navegación al menú principal, enlaces a las redes sociales, formulario de suscripción a novedades, se debe visualizar de manera persistente durante la navegación entre documentos
+
+
+Ponderación de Nota:
+
+Incluir el favicon para las resoluciones adecuadas
+se mantiene la calidad estética de los recursos gráficos
+no hay errores de sintaxis ni malos usos semánticos
+uso de selectores avanzados además de id y class
+++incluir un documento de desarrollo: 
+descripción del sitio (temática, objetivos, a quién está dirigido-segmentación de usuarios), 
+un detalle de la librería y recursos adicionales vinculados al proyecto listando las ventajas de su implementación
+entorno de prueba y diagnóstico: en qué navegadores web se probó el sitio (nombre y versión), listado de otras herramientas y/o complementos que se usaron para validar y testear el sitio web.
+
+
+MODALIDAD
+
+La consigna es individual, para la fecha de entrega el/la estudiante debe adjuntar a la intranet de la escuela una única carpeta comprimida de nombre “act1a-Nombre_Apellido” (formato .zip ó .rar)
+
+
+DETALLE /FORMATO DE LA ENTREGA
+	
+En la carpeta de entrega incluir:
+
+La carpeta de desarrollo del sitio responsive con todos sus recursos, archivos y subcarpetas: 
+Todo recurso gráfico debe quedar dentro de la carpeta “imagenes”.
+La hoja de estilos de autor dentro de la carpeta “css”  
+Un archivo .txt como membrete de la entrega, con los datos del/la estudiante (comisión, nombre y apellido), en qué navegadores testearon el sitio, cuántas horas le dedicaron al proyecto -aprox-
+Opcional para ponderar nota: El Documento de Desarrollo
+Adjuntar el mapa de navegación y el wireframe de planificación
+Adjuntar la captura de pantalla de todas las páginas del sitio terminado en sus 3 vistas (móvil-tablet-escritorio). Se recomienda el uso de complementos como: https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl 
+
+
+
+

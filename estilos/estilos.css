@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-toggler{
+    margin-right: 20px;
+}
+
+.prodtemp{
+    justify-content: left;
+}
+.fotokimono,.camisabulgara{
+    height: 336px;
+    width: 224px;
+}
+
+.lacard{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.pdecard{
+    color: #9A6666;
+    text-align: center;
+}
+
+.btn-light:hover{
+    background-color: #9A6666;
+    color: white;
+}
+
+.unboton{
+    text-align: center;
+}
+
+.linea{
+    border-bottom: solid 0.5px #9A6666;
+    margin-top: 20px;
+}
+
+.piedemapa{
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:#9A6666;
+}
+
+.elmapa{
+    text-align: center;
+}
+
+#mapa{
+    border-radius: 5px;
+}
+
+
+footer{
+    height: 250px;
+    color: #9A6666;
+}
+
+.mediospagos{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#mp,#visa,#master,#amex,#naranja,#maestro,#transf,#rapi,#pagofacil,#correoarg
+,#persona{
+   height: 26px;
+   width: 50px;
+}
+
+.mediosenvios{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tel{
+    color: rgba(128, 128, 128, 0.713);
+    font-size: 12px;
+}
+
+.wpp{
+    height: 20px;
+    width: 20px;
+}
+
+.btnwpp{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.elig{
+    color: rgba(128, 128, 128, 0.713);
+    font-size: 12px;
+}
+
+.fa-instagram{
+    color: #9A6666;
+    font-size: medium;
+    
+}
+
+
+/**Pagina de Tienda**/
+.proddetienda{
+   text-align: center;
+   margin-top: 15px;
+}
+
+@media only screen and (max-width: 350px){
+    
+
+    .pdecard{
+        margin: 0;
+    }
+    
+}
+
+@media only screen and (min-width: 500px){
+    
+
+    #elbanner{
+        height: 250px;
+    }
+    
+}
+
+@media only screen and (min-width: 550px){
+    
+
+    #elbanner{
+        height: 300px;
+    }
+
+    #mapa{
+        width: 400px;
+    }
+    
+}
+
+@media only screen and (min-width: 600px){
+    
+
+    #elbanner{
+        height: 350px;
+    }
+    
+    #mapa{
+        width: 500px;
+    }
+}
+
+@media only screen and (min-width: 690px){
+    
+
+    #elbanner{
+        height: 400px;
+    }
+    
+}
+
+@media only screen and (min-width: 750px){
+    
+
+    #elbanner{
+        height: 420px;
+    }
+
+    .elcarrousel{
+        margin-left: 75px;
+        margin-right: 75px;
+    }
+
+    #mapa{
+        width: 650px;
+    }
+    
+}
+
+@media only screen and (min-width:1000px){
+
+    
+    .prodtemp{
+        margin-left: 67px;
+    }
+
+    #mapa{
+        width: 1000px;
+    }
+
+    
+}
