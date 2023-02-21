@@ -121,9 +121,24 @@ footer{
 }
 
 /**Pagina de Contacto**/
-.estructuradeformulario{
-    
+.titulodecontacto{
+    text-align: center;
+    padding-top: 20px;
 }
+
+/**Pagina de Quienes Somos**/
+
+.tituloqa{
+    text-align: center;
+}
+.textoqa{
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+
 @media only screen and (max-width: 350px){
     
 
@@ -193,20 +208,10 @@ footer{
     }
 
     /**Pagina de contacto**/
-   .titulodecontacto{
-    text-align: center;
-    padding-top: 10px;
-   }
+   
 
    /**Pagina de Quienes somos**/
-    .tituloqa{
-        text-align: center;
-    }
-    .textoqa{
-        text-align: center;
-        margin-left: 15px;
-        margin-right: 15px;
-    }
+    
 }
 
 @media only screen and (min-width:1000px){
