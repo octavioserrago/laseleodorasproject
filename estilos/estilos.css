@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -8,8 +10,13 @@
     margin-right: 20px;
 }
 
+#losmasvendidos{
+    font-family: 'Libre Franklin', sans-serif;
+}
+
 .prodtemp{
     justify-content: left;
+    font-family: 'Libre Franklin', sans-serif;
 }
 .fotokimono,.camisabulgara{
     height: 336px;
@@ -46,6 +53,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     color:#9A6666;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 .elmapa{
@@ -118,18 +126,22 @@ footer{
 .proddetienda{
    text-align: center;
    margin-top: 15px;
+   font-family: 'Libre Franklin', sans-serif;
 }
 
 /**Pagina de Contacto**/
 .titulodecontacto{
     text-align: center;
     padding-top: 20px;
+    font-family: 'Libre Franklin', sans-serif;
+    
 }
 
 /**Pagina de Quienes Somos**/
 
 .tituloqa{
     text-align: center;
+    font-family: 'Libre Franklin', sans-serif;
 }
 .textoqa{
     text-align: center;
