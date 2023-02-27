@@ -14,6 +14,15 @@
     font-family: 'Libre Franklin', sans-serif;
 }
 
+#fto1,#fto2,#fto3{
+    border-radius: 10px;
+}
+
+
+#foto1,#foto2,#foto3{
+    border-radius: 10px;
+}
+
 .prodtemp{
     justify-content: left;
     font-family: 'Libre Franklin', sans-serif;
@@ -149,6 +158,21 @@ footer{
     margin-right: 15px;
 }
 
+/**Pagina de Producto en detalle**/
+
+#cuerpodedetalledeproducto{
+    margin-top: 50px;
+}
+#mochilaendetalle{
+    height: 250px;
+    width: 250px;
+    border-radius: 3px;
+}
+
+.cuotas,.precio,.efectivo{
+    color: #9A6666;
+}
+
 
 
 @media only screen and (max-width: 350px){
@@ -226,6 +250,12 @@ footer{
     
 }
 
+@media only screen and (min-width: 770px) and (max-width: 1015px) {
+    .contenedordedetalle{
+        margin-left: 75px;
+    }
+  }
+  
 @media only screen and (min-width:1000px){
 
     
